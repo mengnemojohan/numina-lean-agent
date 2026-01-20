@@ -3,7 +3,7 @@
 <div align="center">
   <a href=""><b>Paper</b></a> |
   <a href="https://leandex.projectnumina.ai"><b>Leandex</b></a> |
-  <a href=""><b>Demo</b></a> |
+  <a href="https://demo.projectnumina.ai/"><b>Demo</b></a> |
   <a href="https://github.com/project-numina/Numina-Putnam2025"><b>Putnam 2025</b></a>
 </div>
 
