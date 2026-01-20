@@ -14,8 +14,8 @@ An agent built on Claude Code for Lean theorem proving tasks. We used this syste
 ## System Overview
 
 <p align="center">
-  <a href="imgs/Numina-LeanAgent-v3.png">
-    <img src="imgs/Numina-LeanAgent-v3.png" alt="Numina-Lean-Agent system overview" width="900" />
+  <a href="assets/Numina-LeanAgent-v3.png">
+    <img src="assets/Numina-LeanAgent-v3.png" alt="Numina-Lean-Agent system overview" width="900" />
   </a>
 </p>
 
